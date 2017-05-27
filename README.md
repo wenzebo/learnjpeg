@@ -1,1 +1,2 @@
 # learnjpeg
+libjpeg learning test
